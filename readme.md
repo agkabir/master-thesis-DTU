@@ -66,7 +66,7 @@ This repository contains the code for data pre-processing and different model ar
 
 #### Hit rate
 
-![](./images/Hit_rate.png)
+![](./images/Hit_Rate.png)
 
 #### False Alarm rate
 
