@@ -5,8 +5,8 @@ This repository contains the code for data pre-processing and different model ar
 ## Table of contents
 
 - [Overview](#overview)
-  - [Requirements](#requirements) 
-  - [Steps to train model for whole Denmark:](#Steps-to-train-model-for-whole-Denmark:) 
+  - [Requirements](#requirements)
+  - [Steps to train model for whole Denmark](#steps-to-train-model-for-whole-denmark)
   - [Steps to test a trained model for whole Denmark:](#Steps-to-test-a-trained-model-for-whole-Denmark:)
   - [Screenshot](#screenshot)
   - [Links](#links)
