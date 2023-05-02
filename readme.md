@@ -6,8 +6,8 @@ This repository contains the code for data pre-processing and different model ar
 
 - [Overview](#overview)
   - [Requirements](#requirements) 
-  -[ Steps to train model for whole Denmark:](#Steps-to-train-model-for-whole-Denmark:) 
-  -[ Steps to test a trained model for whole Denmark:](#Steps-to-test-a-trained-model-for-whole-Denmark:)
+  - [Steps to train model for whole Denmark:](#Steps-to-train-model-for-whole-Denmark:) 
+  - [Steps to test a trained model for whole Denmark:](#Steps-to-test-a-trained-model-for-whole-Denmark:)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -33,7 +33,7 @@ This repository contains the code for data pre-processing and different model ar
 3. For whole Denmark a file named "mask.array" is needed which was formed by setting 0 to pixel values out of radar coverage area and 1 to pixel values inside of radar coverage.
 4. Train the model by running "train.py". At the end of the training the trained model will be saved as 'dmi_checkpoints.h5' and indexes of test dataset will be generated.
 
-## Steps to test a trained model for whole Denmark:
+### Steps to test a trained model for whole Denmark:
 
 1. Run the "test.py" simply by specifying the path of test dataset index file.
 
