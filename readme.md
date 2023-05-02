@@ -42,8 +42,8 @@ This repository contains the code for data pre-processing and different model ar
 3. Finally, train the model by running "train.py".
 
 ### Results
-A raw and processed radar observation for whole Denmark
+#### A raw and processed radar observation for whole Denmark
 ![](./images/whole_denmark_processed.png)
 
-A raw and processed radar observation for a cropped region
+#### A raw and processed radar observation for a cropped region
 ![](./images/cropped_region_processed.png)
