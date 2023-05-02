@@ -47,3 +47,9 @@ This repository contains the code for data pre-processing and different model ar
 
 #### A raw and processed radar observation for a cropped region
 ![](./images/cropped_region_processed.png)
+
+#### Model prediction for whole Denmark
+![](./images/whole_denmark_results.png)
+
+#### Model prediction for cropped region
+![](./images/cropped_region_results.png)
