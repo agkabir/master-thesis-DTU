@@ -1,16 +1,17 @@
 # Rainfall forecasting from radar inages using Deep Learning
 
-This repository contains the code for data pre-processing and different model architectures outlined in the thesis paper. The code in written in python.
+This repository contains the code for data pre-processing and different model architectures outlined in the thesis paper. The code written in python.
 
 ## Table of contents
 
 - [Overview](#overview)
+
   - [Requirements](#requirements)
   - [Steps to train model for whole Denmark](#steps-to-train-model-for-whole-denmark)
   - [Steps to test a trained model for whole Denmark](#steps-to-test-a-trained-model-for-whole-denmark)
   - [Steps to train a model for cropped region](#Steps-to-train-a-model-for-cropped-region)
   - [Results](#results)
-  - [Links](#links)
+  - [Thesis Paper](#links)
 
 - [Author](#author)
 
@@ -42,14 +43,39 @@ This repository contains the code for data pre-processing and different model ar
 3. Finally, train the model by running "train.py".
 
 ### Results
+
 #### A raw and processed radar observation for whole Denmark
+
 ![](./images/whole_denmark_processed.png)
 
 #### A raw and processed radar observation for a cropped region
+
 ![](./images/cropped_region_processed.png)
 
 #### Model prediction for whole Denmark
+
 ![](./images/whole_denmark_results.png)
 
 #### Model prediction for cropped region
+
 ![](./images/cropped_region_results.png)
+
+#### Critical success score
+
+![](./images/Csi.png)
+
+#### Hit rate
+
+![](./images/Hit_rate.png)
+
+#### False Alarm rate
+
+![](./images/Far.png)
+
+### Thesis Paper
+
+- [Rainfall forecasting from radar inages using Deep Learning](./MS_Thesis_Kabir.pdf)
+
+## Author
+
+- Linked In - [Alamgir Kabir](https://www.linkedin.com/in/mdagkabir)
